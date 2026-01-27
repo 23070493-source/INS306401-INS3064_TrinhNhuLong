@@ -5,3 +5,4 @@ for ($i = 1; $i <= 5; $i++) {
     }
     echo "<br>"; // Hoặc "\n" nếu chạy trong terminal
 }
+?>

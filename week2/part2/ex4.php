@@ -7,3 +7,4 @@ foreach ($input as $price) {
 }
 
 echo "Total: " . $total;
+?>
